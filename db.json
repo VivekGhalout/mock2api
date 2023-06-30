@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "userName": "vivek",
+            "email": "vivek@gmail.com",
+            "password": "vivek123"
+        }
+    ],
+
+    "expense" : [
+        {
+            "type" : "Income",
+            "category": "Salary",
+            "amount" : "500",
+            "date" : "30/06/2023"
+        }
+    ]
+}
